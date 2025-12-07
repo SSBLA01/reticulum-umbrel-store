@@ -8,6 +8,6 @@ services:
       - "8000:8000"
     volumes:
       - ${APP_DATA_DIR}/config:/config
-    devices:
-      - /dev/ttyUSB0:/dev/ttyUSB0
-      - /dev/ttyACM0:/dev/ttyACM0
+    # devices:
+    #   - /dev/ttyUSB0:/dev/ttyUSB0
+    #   - /dev/ttyACM0:/dev/ttyACM0
