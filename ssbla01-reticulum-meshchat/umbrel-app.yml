@@ -2,7 +2,7 @@ manifestVersion: 1
 id: ssbla01-reticulum-meshchat
 name: Reticulum MeshChat
 tagline: Encrypted mesh communications over LoRa, radio, or internet
-icon: https://raw.githubusercontent.com/liamcottle/reticulum-meshchat/master/web/favicon.png
+icon: https://raw.githubusercontent.com/SSBLA01/reticulum-umbrel-store/main/ssbla01-reticulum-meshchat/icon.png
 category: networking
 version: "2.3.0"
 port: 8000
